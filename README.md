@@ -1,6 +1,6 @@
 # Hello 👋 I'm Athif
  ## About Me ✨
-* 🏫I am a Computer Science Student at UBC Vancouver (aiming to minor in Data Science)
+* I am a Computer Science Student at UBC Vancouver 🏫 (aiming to minor in Data Science)
 * I am mainly interested in 💻 Machine Learning, 🧠 Artificial Intelligence, and ⚛️ Quantum Computing
 * I love playing sports (like ⚽ football, 🏏 cricket, and 🏃running)
 
